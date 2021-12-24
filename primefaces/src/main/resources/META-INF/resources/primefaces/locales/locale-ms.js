@@ -1,5 +1,5 @@
 /** Malay */
- PrimeFaces.locales['en'] = {
+ PrimeFaces.locales['ms'] = {
      closeText: 'Tutup',
      prevText: 'Sebelum',
      nextText: 'Seterusnya',
